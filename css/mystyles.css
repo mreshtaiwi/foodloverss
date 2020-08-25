@@ -1,0 +1,30 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+img{
+    width:50px;
+}
+#logo{
+    width: 300px;
+}
+.other-images{
+    width: 500px;
+}
+nav{
+    border: 1px solid blue;
+}
+nav ul li{
+    display: inline;
+    margin-left: 100px;
+    padding: 50px;
+}
+li{
+    border: 1px solid green;
+    width: 100px;
+}
+a{
+    border: 1px solid red;
+    /* display: block; */
+    width: 500px;
+}
